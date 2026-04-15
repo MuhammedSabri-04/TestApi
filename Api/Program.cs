@@ -5,6 +5,10 @@ builder.WebHost.UseUrls("http://*:1000");
 // Add services to the container.
 builder.Services.AddRazorPages();
 
+
+//inital commit demo
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
