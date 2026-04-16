@@ -5,7 +5,7 @@ builder.WebHost.UseUrls("http://*:1000");
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-
+// deneme commit
 
 var app = builder.Build();
 
