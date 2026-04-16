@@ -6,9 +6,6 @@ builder.WebHost.UseUrls("http://*:1000");
 builder.Services.AddRazorPages();
 
 
-//inital commit demo
-// niggar commit demo
-
 
 var app = builder.Build();
 
